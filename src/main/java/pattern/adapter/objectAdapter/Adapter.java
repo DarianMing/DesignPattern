@@ -1,7 +1,7 @@
-package pattern.adaptor.objectAdapter;
+package pattern.adapter.objectAdapter;
 
-import pattern.adaptor.classAdapter.Ps2;
-import pattern.adaptor.classAdapter.Usb;
+import pattern.adapter.classAdapter.Ps2;
+import pattern.adapter.classAdapter.Usb;
 
 public class Adapter implements Ps2 {
 

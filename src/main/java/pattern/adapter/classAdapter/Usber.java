@@ -1,4 +1,4 @@
-package pattern.adaptor.classAdapter;
+package pattern.adapter.classAdapter;
 
 public class Usber implements Usb {
 

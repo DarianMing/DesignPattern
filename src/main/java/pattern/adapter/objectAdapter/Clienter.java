@@ -1,7 +1,7 @@
-package pattern.adaptor.objectAdapter;
+package pattern.adapter.objectAdapter;
 
-import pattern.adaptor.classAdapter.Ps2;
-import pattern.adaptor.classAdapter.Usber;
+import pattern.adapter.classAdapter.Ps2;
+import pattern.adapter.classAdapter.Usber;
 
 public class Clienter {
 

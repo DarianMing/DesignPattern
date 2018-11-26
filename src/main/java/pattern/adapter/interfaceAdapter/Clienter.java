@@ -1,4 +1,4 @@
-package pattern.adaptor.interfaceAdapter;
+package pattern.adapter.interfaceAdapter;
 
 public class Clienter {
 
